@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/dramabox/(.*)", "destination": "/api/dramabox/$1" }
+  ]
+}
